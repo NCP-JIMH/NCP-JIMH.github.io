@@ -1,0 +1,35 @@
+.
+├── AGENTS.md
+├── CLAUDE.md
+├── index.html
+├── package.json
+├── pnpm-lock.yaml
+├── src
+│   ├── App.tsx
+│   ├── Cajeros.tsx
+│   ├── Catalogo.tsx
+│   ├── Dashboard.tsx
+│   ├── Historial.tsx
+│   ├── imports
+│   │   ├── image-10.png
+│   │   ├── image-11.png
+│   │   ├── image-12.png
+│   │   ├── image-1.png
+│   │   ├── image-2.png
+│   │   ├── image-3.png
+│   │   ├── image-4.png
+│   │   ├── image-5.png
+│   │   ├── image-6.png
+│   │   ├── image-7.png
+│   │   ├── image-8.png
+│   │   ├── image-9.png
+│   │   └── image.png
+│   ├── index.css
+│   ├── main.tsx
+│   ├── Ventas.tsx
+│   └── vite-env.d.ts
+├── tree.txt
+├── tsconfig.json
+└── vite.config.ts
+
+3 directories, 30 files
